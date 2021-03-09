@@ -1,0 +1,8 @@
+{
+  "name": "Cinema",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "bda821ef"
+}
